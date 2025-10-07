@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "AISE — AI Startup Exposure data"
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: "Fenoaltea"
+    given-names: "Enrico Maria"
+  - family-names: "Mazzilli"
+    given-names: "Dario"
+  - family-names: "Patelli"
+    given-names: "Aurelio"
+  - family-names: "Sbardella"
+    given-names: "Angelica"
+  - family-names: "Tacchella"
+    given-names: "Andrea"
+  - family-names: "Zaccaria"
+    given-names: "Andrea"
+  - family-names: "Trombetti"
+    given-names: "Marco"
+  - family-names: "Pietronero"
+    given-names: "Luciano"
+version: "1.0.0"
+date-released: "2025-10-07"
+repository-code: "https://github.com/AISE-Data/AISE"
+abstract: >
+  This repository contains AI Startup Exposure (AISE) metrics by O*NET occupation,
+  and a human-labeled dataset of job–startup pairs with labels and justifications.
+# Add these when available:
+# identifiers:
+#   - type: doi
+#     value: "<paper DOI>"
+#   - type: url
+#     value: "<preprint URL>"
